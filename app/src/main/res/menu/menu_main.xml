@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.isofficial.timetableapp.MainActivity" >
+    <item android:id="@+id/create_button"
+    android:title="@string/create_button"
+    android:orderInCategory="100"
+    app:showAsAction="never" />
+
+    <item android:id="@+id/save_button"
+        android:title="@string/save_button"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

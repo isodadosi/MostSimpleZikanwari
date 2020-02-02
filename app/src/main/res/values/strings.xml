@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">時間割</string>
+    <string name="create_button">新規作成</string>
+    <string name="save_button">保存</string>
+</resources>
